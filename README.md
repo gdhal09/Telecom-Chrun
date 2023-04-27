@@ -1,2 +1,2 @@
 # Telecom-Chrun
-Telecom Churn
+Telecom Churn prediction Case Study
